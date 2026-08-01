@@ -9,7 +9,7 @@ The project starts as a bot that can only introduce itself and grows into an int
 ## 🚀 Project Progress
 
 - [x] **Stage 1** — Meet Your Chat Bot
-- [ ] **Stage 2** — _Not Started_
+- [x] **Stage 2** — Introduce Yourself
 - [ ] **Stage 3** — _Not Started_
 - [ ] **Stage 4** — _Not Started_
 - [ ] **Stage 5** — _Not Started_
@@ -45,6 +45,39 @@ I was created in 2026.
 ```
 
 The name and the year are up to you — only the shape of the two lines is fixed.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📌 Stage 2 — Introduce Yourself</strong></summary>
+
+### 📝 Description
+
+A bot that only talks about itself isn't much of a conversation partner. This version takes the first step towards an actual dialogue.
+
+After the introduction, the bot asks who it is speaking to, waits for the answer and then replies using the name it was given — a small change that makes the interaction feel personal.
+
+### 🎯 Objectives
+
+1. Keep the introduction lines from the previous stage;
+2. Ask the user for their name;
+3. Read the name typed in the standard input;
+4. Compliment the user by name, following the required wording.
+
+### 💡 Expected Output
+
+> Lines starting with `>` mark what the user types.
+> The symbol is only a visual separator — the program never prints it.
+
+```text
+Hello! My name is Aid.
+I was created in 2026.
+Please, remind me your name.
+> Max
+What a great name you have, Max!
+```
 
 </details>
 
