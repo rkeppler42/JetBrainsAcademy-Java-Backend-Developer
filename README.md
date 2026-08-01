@@ -12,10 +12,10 @@ This repository contains all the projects I’ve completed as part of the [Java 
 
 ## 📊 Progress
 
-![Topics](https://img.shields.io/badge/Topics_Completed-4.6%25-blue)
-![Core Topics](https://img.shields.io/badge/Applied_Core-5.9%25-blueviolet)
+![Topics](https://img.shields.io/badge/Topics_Completed-7.1%25-blue)
+![Core Topics](https://img.shields.io/badge/Applied_Core-9.9%25-blueviolet)
 ![Graduate Projects](https://img.shields.io/badge/Graduate_Projects-0%2F1-lightgrey)
-![Projects](https://img.shields.io/badge/Projects_Completed-0%2F57_(0%25)-success)
+![Projects](https://img.shields.io/badge/Projects_Completed-1%2F57_(1.8%25)-success)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains all the projects I’ve completed as part of the [Java 
 
 ### 🟢 Easy
 
-- 🚧 My First Project with Java: _In Progress_
+- ✅ My First Project with Java: **Completed**
 - ⏳ Cinema Room Manager: _Not Started_
 - ⏳ Last Pencil (Java): _Not Started_
 - ⏳ Coffee Machine Simulator with Java: _Not Started_
