@@ -15,7 +15,7 @@ This repository contains all the projects I’ve completed as part of the [Java 
 ![Topics](https://img.shields.io/badge/Topics_Completed-7.1%25-blue)
 ![Core Topics](https://img.shields.io/badge/Applied_Core-9.9%25-blueviolet)
 ![Graduate Projects](https://img.shields.io/badge/Graduate_Projects-0%2F1-lightgrey)
-![Projects](https://img.shields.io/badge/Projects_Completed-1%2F57_(1.8%25)-success)
+![Projects](<https://img.shields.io/badge/Projects_Completed-1%2F57_(1.8%25)-success>)
 
 ---
 
@@ -30,7 +30,8 @@ This repository contains all the projects I’ve completed as part of the [Java 
 
 ### 🟢 Easy
 
-- ✅ My First Project with Java: **Completed**
+- ✅ [My First Project with Java](https://github.com/rkeppler42/JetBrainsAcademy-Java-Backend-Developer/tree/main/Easy/MyFirstProjectWithJava): **Completed**
+- 🚧 [Simple Chat Bot with Java](https://github.com/rkeppler42/JetBrainsAcademy-Java-Backend-Developer/tree/main/Easy/SimpleChatBotWithJava): _In Progress_
 - ⏳ Cinema Room Manager: _Not Started_
 - ⏳ Last Pencil (Java): _Not Started_
 - ⏳ Coffee Machine Simulator with Java: _Not Started_
@@ -40,7 +41,6 @@ This repository contains all the projects I’ve completed as part of the [Java 
 - ⏳ Chuck Norris Cipher Encoder (Java): _Not Started_
 - ⏳ Amazing Numbers: _Not Started_
 - ⏳ Simple Tic-Tac-Toe (Java): _Not Started_
-- ⏳ Simple Chat Bot with Java: _Not Started_
 - ⏳ Rock-Paper-Scissors (Java) 🧪: _Not Started_
 
 ### 🟡 Medium
