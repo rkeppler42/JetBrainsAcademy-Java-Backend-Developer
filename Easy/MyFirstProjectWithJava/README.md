@@ -10,6 +10,7 @@ The project begins with a simple product catalog for a small shop and gradually 
 
 - [x] **Stage 1** — Print the Prices
 - [x] **Stage 2** — Measure the Total Income
+- [x] **Stage 3** — Calculate net income
 
 ---
 
@@ -90,6 +91,72 @@ Doughnut: $1075
 Pancake: $80
 
 Income: $5405.0
+```
+
+</details>
+
+---
+
+<details>
+<summary><strong>📌 Stage 3 — Calculate the Net Income</strong></summary>
+
+### 📝 Description
+
+The final version turns the earnings report into a full profitability summary.
+
+Besides showing what each product brought in, the program now reads two expense values typed by the user — payroll and everything else — and subtracts them from the gross total, revealing how much the shop actually kept.
+
+All previous behaviour stays untouched; this stage only extends it.
+
+### 🎯 Objectives
+
+1. Keep printing the product names, their individual earnings and the gross total, exactly as before;
+2. Prompt for payroll costs using the `Staff expenses:` label and read the value entered;
+3. Prompt for the remaining costs using the `Other expenses:` label and read that value as well;
+4. Subtract both amounts from the gross income;
+5. Print the result using the `Net income: $<value>` format.
+
+### 💡 Expected Output
+
+> In the samples below, lines starting with `>` mark what the user types.
+> The symbol is only a visual separator — the program never prints it.
+
+**Run 1** — payroll of 2000 and other costs of 205:
+
+```text
+Earned amount:
+Bubblegum: $202
+Toffee: $118
+Ice cream: $2250
+Milk chocolate: $1680
+Doughnut: $1075
+Pancake: $80
+
+Income: $5405
+Staff expenses:
+> 2000
+Other expenses:
+> 205
+Net income: $3200
+```
+
+**Run 2** — payroll of 5203 and other costs of 400, ending in the red:
+
+```text
+Earned amount:
+Bubblegum: $202
+Toffee: $118
+Ice cream: $2250
+Milk chocolate: $1680
+Doughnut: $1075
+Pancake: $80
+
+Income: $5405
+Staff expenses:
+> 5203
+Other expenses:
+> 400
+Net income: $-198
 ```
 
 </details>
